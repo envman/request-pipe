@@ -1,0 +1,27 @@
+{
+  "name": "request-pipe",
+  "version": "0.1.0",
+  "description": "Promise based request piping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envman/request-pipe.git"
+  },
+  "keywords": [
+    "promise",
+    "request",
+    "pipe"
+  ],
+  "author": "Robert Gill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/envman/request-pipe/issues"
+  },
+  "homepage": "https://github.com/envman/request-pipe#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
